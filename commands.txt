@@ -1,0 +1,9 @@
+command to open the server internet explorer 
+
+           explorer.exe http://somewhere.com/filename.ext 
+
+command to search file in command prompt 
+
+ 	   find /c "string" file
+or 
+           find /c "%%P" file.txt  || ( echo %%P >> 
